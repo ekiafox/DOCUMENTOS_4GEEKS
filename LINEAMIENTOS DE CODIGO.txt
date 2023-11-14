@@ -1,0 +1,31 @@
+PREGUNTA DIAPOSITIVA 01
+
+    El segundo <div> no se cerró correctamente con </div>.
+    El segundo <p> no tiene cierre de etiqueta.
+
+DIAPOSITIVA 02
+
+    Falta cerrar la etiqueta <p> en el segundo <div>.
+    Indentación inconsistente.
+
+DIAPOSITIVA 03
+
+En esta función, se define calc(nums), que suma los números positivos en un array.
+
+DIAPOSITIVA 04
+
+result como variable global crea desorden y confusiones, permitiendo modificaciones intencionales.
+
+DIAPOSITIVA 05
+
+La función accumulate modifica la variable global result sin pasarla como parámetro
+causando dificultades en la comprensión y depuración del código.
+
+DIAPOSITIVA 06
+
+Elimina else y simplifica la función usando un operador ternario.
+
+DIAPOSITIVA 07
+
+La primera condición verifica si el número no es positivo y devuelve el mensaje correspondiente. 
+Luego, evalúa si es divisible por 2 y 3, por 2 solo, por 3 solo, o ninguno de los dos.
